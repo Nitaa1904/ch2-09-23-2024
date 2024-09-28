@@ -63,8 +63,6 @@ for(let i = 0; i < totalButton; i++) {
         setTimeout(() => {
             this.style.color = "";
         }, 2000);
-
-        
     });
 }
 

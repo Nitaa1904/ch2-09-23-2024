@@ -11,6 +11,6 @@
 MIT
 
 ---
-> GitHub [@Nitaa1904](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> GitHub [@Nitaa1904](https://github.com/Nitaa1904) &nbsp;&middot;&nbsp;
+> Linkedin [Nita Fitrotul Mar'ah](https://www.linkedin.com/in/nitafitrotul/)
 
